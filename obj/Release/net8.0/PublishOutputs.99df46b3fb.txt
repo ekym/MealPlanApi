@@ -1,0 +1,15 @@
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\MealPlanApi.exe
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\appsettings.json
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\MealPlanApi.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\MealPlanApi.deps.json
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\MealPlanApi.runtimeconfig.json
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\MealPlanApi.pdb
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\NodaTime.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

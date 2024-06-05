@@ -9,6 +9,7 @@ C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCor
 C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\NodaTime.dll
 C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\perso\code\MealPlan\MealPlanApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -19,6 +20,7 @@ C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\MealPlanApi.AssemblyInfo.cs
 C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\MealPlanApi.csproj.CoreCompileInputs.cache
 C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\MealPlanApi.MvcApplicationPartsAssemblyInfo.cs
 C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\MealPlanApi.MvcApplicationPartsAssemblyInfo.cache
+C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\MealPlanApi.sourcelink.json
 C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\perso\code\MealPlan\MealPlanApi\obj\Debug\net8.0\staticwebassets\msbuild.MealPlanApi.Microsoft.AspNetCore.StaticWebAssets.props
